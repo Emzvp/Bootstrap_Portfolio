@@ -65,7 +65,7 @@ img.floatLeft {
    float: right;
     }
 
-body{ background-image: url("images/roughcloth.png");
+body{ background-image: url("Bootstrap_Portfolio/assets/images/roughcloth.png");
 }
 .body bio {
     position: center;
